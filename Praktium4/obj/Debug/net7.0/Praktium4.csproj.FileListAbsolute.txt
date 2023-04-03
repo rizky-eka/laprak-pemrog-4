@@ -1,0 +1,5 @@
+/Users/rizky28eka/Projects/Praktium4/Praktium4/obj/Debug/net7.0/Praktium4.csproj.AssemblyReference.cache
+/Users/rizky28eka/Projects/Praktium4/Praktium4/obj/Debug/net7.0/Praktium4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rizky28eka/Projects/Praktium4/Praktium4/obj/Debug/net7.0/Praktium4.AssemblyInfoInputs.cache
+/Users/rizky28eka/Projects/Praktium4/Praktium4/obj/Debug/net7.0/Praktium4.AssemblyInfo.cs
+/Users/rizky28eka/Projects/Praktium4/Praktium4/obj/Debug/net7.0/Praktium4.csproj.CoreCompileInputs.cache
